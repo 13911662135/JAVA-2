@@ -42,3 +42,4 @@ public class Teacher extends People {
 ## 七、实验结果
 ![实验运行截图](https://github.com/13911662135/JAVA-2/blob/main/4fa715bc794f53cc4b03643ceaccf91.png)
 ## 八、实验感想
+这次实验我因为迎新晚会没有去，事后也向同学们问了很多问题，我也认真重新学习了相关内容。很高兴会能学到新知识，我收获颇丰
